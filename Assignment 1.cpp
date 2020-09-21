@@ -1,7 +1,7 @@
 /**************************************************************/
 /*                                                            */
-/*   Program to demonstrate the implmentation of a simple     */
-/*   linked list of numbers with a delete.					  */
+/*   Car dealership using linked list in C    			*/
+/*   Jenkin Yu					  		*/
 /*                                                            */
 /**************************************************************/
 
